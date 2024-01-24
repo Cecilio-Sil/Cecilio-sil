@@ -12,12 +12,12 @@
 </div><br>
 
 ##
-
+<!--
 <di>
   <a href="https://www.linkedin.com/in/cec%C3%ADlioneto5527a924a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white"></a>
   <a href="dev_cnm@hotmail.com" target="_blank"><img height="20" width="100" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-
+-->
 
 
 <hr>

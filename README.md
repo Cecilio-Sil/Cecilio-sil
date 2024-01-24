@@ -12,7 +12,7 @@
 </div>
 
 #### Emeil para contato 
-[![Microsoft outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](dev_cnm@hotmail.com)
+[![Microsoft outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/))
 
 <hr>
 Estudante e apaixonado por tecnologia, e através dela ajudar a melhorar a vida das pessoas! 

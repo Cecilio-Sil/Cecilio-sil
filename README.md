@@ -4,7 +4,6 @@
 
 <div align = "center"><br>
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cecilio-sil&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1111">
-   
    <img width="45%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilio-sil&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt = "Statos de linguagem de Cecílio" >
 </div>
      
@@ -16,12 +15,12 @@
    <img aling="center" alt="Git" height="30" widtg="40" srv="">
 </div><br>
 
-<h2 align="center"> Redes Social </h2> 
 
+<h2 align="center"> Redes Social </h2> 
 <div align="center" style="display: inline_block">
-   <a href="https://www.linkedin.com/in/cecílioneto5527a924a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-          badge&logo=linkedin&logoColor=white" target=_blank></a>
+   <a href="https://www.linkedin.com/in/cecílioneto5527a924a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-          badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:cmp.1a.cecilionetom@hotmail.com"> <img height="20" width="100" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 <hr>
-Estudante e apaixonado por tecnologia, e através dela ajudar a melhorar a vida das pessoas! 
+<p align="center"> Estudante e apaixonado por tecnologia, e através dela ajudar a melhorar a vida das pessoas! </p>

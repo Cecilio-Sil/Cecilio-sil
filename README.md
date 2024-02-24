@@ -3,7 +3,7 @@
 <h2 align="center"> Olá👋! Seja bem vindo(a) a minha página do Github, eu sou o Cecílio Neto😁. </h2> 
 
 <div align = "center"><br>
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cecilio-sil&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1111">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cecílio-sil&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1111">
    <img width="45%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Cecilio-sil&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt = "Statos de linguagem de Cecílio" >
 </div>
      

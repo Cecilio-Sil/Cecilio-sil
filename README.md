@@ -26,7 +26,7 @@
 <h2 align="center"> Redes Sociais </h2> 
 <div align="center" style="display: inline_block">
    
-   <a href="https://www.linkedin.com/in/cecílioneto5527a924a" target="_blank">
+   <a href="www.linkedin.com/in/cecilioneto91" target="_blank">
         <img 
              text-decoration="none"
              height="33" 

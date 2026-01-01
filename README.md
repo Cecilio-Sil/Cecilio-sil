@@ -26,8 +26,22 @@
 <h2 align="center"> Redes Sociais </h2> 
 <div align="center" style="display: inline_block">
    
-   <a href="https://www.linkedin.com/in/cecílioneto5527a924a" target="_blank"><img height="20" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="mailto:cmp.1a.cecilionetom@hotmail.com"> <img height="20" width="100" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/cecílioneto5527a924a" target="_blank">
+        <img 
+             text-decoration="none"
+             height="33" 
+             width="200" 
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+             target="_blank"
+        >
+   </a>
+   <a href="mailto:cmp.1a.cecilionetom@hotmail.com" target="_blank"> 
+        <img 
+             height="60" 
+             width="200" 
+             src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+        >
+   </a>
    
 </div><br>
 

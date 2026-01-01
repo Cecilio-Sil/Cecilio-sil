@@ -1,6 +1,6 @@
 <img  width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=c9c9c9">
 
-<h2 align="center"> Olá👋! Seja bem vindo(a) a minha página do Github, eu sou o Cecílio Neto😁. </h2> 
+<h1 align="left">Olá! Eu sou o Cecílio Neto <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
      
 <h1 align="center"> Tecnologias </h1>
 <div align="center" style="display: inline_block"><br>

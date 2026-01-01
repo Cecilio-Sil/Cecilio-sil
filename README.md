@@ -32,7 +32,6 @@
              height="33" 
              width="200" 
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-             target="_blank"
         >
    </a>
    <a href="mailto:cmp.1a.cecilionetom@hotmail.com" target="_blank"> 
